@@ -36,4 +36,4 @@ $ npm run test:cov
 
 ## Logic
 
-![Token Logic](https://i.imgur.com/X22942m_d.webp?maxwidth=760&fidelity=grand)
+![Token Logic](https://i.imgur.com/X22942m_d.webp?maxwidth=5000&fidelity=grand)
